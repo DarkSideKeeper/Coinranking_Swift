@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (5.5.0)
+  - IQKeyboardManagerSwift (6.5.9)
+  - Kingfisher (7.2.0)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxGesture (4.0.3):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - UIScrollView-InfiniteScroll (1.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 7.0)
+  - RxCocoa (= 6.5.0)
+  - RxGesture
+  - RxSwift (= 6.5.0)
+  - UIScrollView-InfiniteScroll (~> 1.1.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - RxCocoa
+    - RxGesture
+    - RxRelay
+    - RxSwift
+    - UIScrollView-InfiniteScroll
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  Kingfisher: 3ac0b75b155cabc0e544877d1a4deea29feece92
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxGesture: abadd243fc36db74df43dfc893829ddde94f1a3d
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  UIScrollView-InfiniteScroll: 3ef456bcbe759c19f510a383cff96e6647c98c98
+
+PODFILE CHECKSUM: 7431f578c1790b1d0421a04a2127af0fd07af7e9
+
+COCOAPODS: 1.11.2
